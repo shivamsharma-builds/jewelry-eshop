@@ -21,3 +21,6 @@ A modern, responsive e-commerce web application designed for selling jewelry onl
 
 Tech Stack:
 React • Node.js • Express • MongoDB • JWT Auth • Tailwind CSS (or Bootstrap) • Stripe API
+
+created by shivam sharma
+github : shivamsharma-builds
